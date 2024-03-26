@@ -1,0 +1,1 @@
+Take at least 10 images of a chess board using the 'getImages.py' scrit.
